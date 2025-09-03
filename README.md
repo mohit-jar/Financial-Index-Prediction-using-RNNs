@@ -1,6 +1,4 @@
-# Stock Price Prediction with RNNs
-
-This project utilizes Recurrent Neural Networks (RNNs) to forecast stock index prices. It provides a complete pipeline from data preparation and model training to evaluation and visualization, comparing the performance of SimpleRNN, GRU, and LSTM architectures.
+# Financial Index Prediction with RNNs
 
 ---
 ## Overview
